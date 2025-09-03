@@ -164,3 +164,4 @@ CCTV-17,http://61.156.228.12:8154/tsfile/live/0019_1.m3u8
 CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8
 
 📺央视频道IPV4,#genre#
+IPV4,https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
