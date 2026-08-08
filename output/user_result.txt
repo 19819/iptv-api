@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-08 18:34:30,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-08-09 06:31:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -863,6 +863,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-6.ctv
 东方财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-9.ctv
@@ -910,6 +911,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 ☘️重庆频道,#genre#
+璧山综合,http://222.179.42.129:8181/hls1.m3u8
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -965,8 +967,8 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 无锡经济,https://stream.thmz.com/wxtv5/playlist.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867#http://stream.thmz.com/wxtv5/playlist.m3u8#http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 江宁新闻,https://migu.188766.xyz/?migutoken=77969fb082a75b798578427f3570edd2&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
@@ -1000,7 +1002,6 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 连云港新闻综合,http://z.b.bkpcp.top/m.php?id=lygxwzh
 连云港新闻综合,https://migu.188766.xyz/?migutoken=1b0d5ada0a7a68f9bc0ad66f4464a69d&id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 连云港新闻综合,https://stream1.freetv.fun/lian-yun-gang-xin-wen-zong-he-3.ctv
-镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8
 靖江新闻综合,https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-1.m3u8
@@ -1534,7 +1535,6 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 西宁生活服务,https://stream1.freetv.fun/xi-zhu-sheng-huo-fu-wu-1.m3u8
-化隆综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=28e8ff&tk=6949f8ce7202
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8
 
 ☘️黑龙江频道,#genre#
@@ -1583,6 +1583,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
 大庆新闻综合,https://stream1.freetv.fun/da-qing-xin-wen-zong-he-1.m3u8
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534
@@ -1999,8 +2000,8 @@ CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3
 CCTV-15,http://yc.myds.me:35455/gaoma/cctv15.m3u8
 CCTV-15,https://stream1.freetv.fun/d8c678257099a8f24e3bb33a4f9059014ddf1de229ef366a1870f56c11b57c90.m3u8
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
-音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 音乐广播,https://tv-1.iill.top/fm/552
 
