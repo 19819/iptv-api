@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-13 06:43:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-08-13 19:05:57,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1001,6 +1001,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 连云港新闻综合,http://z.b.bkpcp.top/m.php?id=lygxwzh
 连云港新闻综合,https://migu.188766.xyz/?migutoken=1b0d5ada0a7a68f9bc0ad66f4464a69d&id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 连云港新闻综合,https://stream1.freetv.fun/lian-yun-gang-xin-wen-zong-he-3.ctv
+镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8
 靖江新闻综合,https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-1.m3u8
@@ -1110,6 +1111,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 乐山新闻综合,https://stream1.freetv.fun/le-shan-xin-wen-zong-he-1.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
+仁寿综合,https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
 凉山新闻综合,rtmp://tv.drs.i0834.cn/channellive/ch1?zsicd
 凉山新闻综合,rtmp://tv.drs.yizu.tv/channellive/ch1?zsicd
 凉山语,rtmp://tv.drs.i0834.cn/channellive/ch2?zsicd
@@ -1367,8 +1369,8 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
-兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
+兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
@@ -1577,18 +1579,15 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 哈尔滨新闻综合,https://stream1.freetv.fun/ha-er-bin-xin-wen-zong-he-1.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
-哈尔滨生活,https://stream.hrbtv.net/shpd/playlist.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
-哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
 大庆新闻综合,https://stream1.freetv.fun/da-qing-xin-wen-zong-he-1.m3u8
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534
 鹤岗新闻综合,http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8
 鹤岗新闻综合,http://[2409:8087:1a01:df::4060]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
-七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
-七台河新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=697e46&tk=6949f8ce7202
 佳木斯新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226451
 甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
+甘南县综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9bdb37&tk=6949f8ce7202
 甘南县综合,rtmp://masterpull.hljtv.com/live/YbFyF4Jb
 齐齐哈尔新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226437
 齐齐哈尔新闻综合,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
@@ -1997,8 +1996,8 @@ CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3
 CCTV-15,http://yc.myds.me:35455/gaoma/cctv15.m3u8
 CCTV-15,https://stream1.freetv.fun/d8c678257099a8f24e3bb33a4f9059014ddf1de229ef366a1870f56c11b57c90.m3u8
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
-音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 音乐广播,https://tv-1.iill.top/fm/552
 
